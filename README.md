@@ -109,14 +109,14 @@
 
 ### 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EnzoPontoni&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoPontoni&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=midnight-purple&hide_border=true&background=0d1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EnzoPontoni&theme=midnight-purple&hide_border=true&background=0d1117" />
 
 </div>
 
@@ -126,10 +126,9 @@
 
 ### 📬 Vamos conversar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
-[![Portfolio](https://img.shields.io/badge/Portfólio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://SEU_SITE.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/SEU_NUMERO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzopontonidev/)
+[![Portfolio](https://img.shields.io/badge/Portfólio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://enzopontoni.work/)
+[![Email](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:enzopontoni@proton.me)
 
 </div>
 
